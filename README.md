@@ -43,6 +43,7 @@ MixVoip/
 ---
 
 📚**Learnings & Experience**
+
 **✅ This project helped me understand:**
 
 1. Mobile-first responsive design

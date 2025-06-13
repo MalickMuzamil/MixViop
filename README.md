@@ -51,7 +51,7 @@ MixVoip/
 3. Building custom layouts without any frameworks
 4. Real-world UI structuring practices
 
-### 🧑‍💻 Contact
+## 🧑‍💻 Contact
 
 Have questions or suggestions? 📧 Email: malikmuzamil92110@gmail.com 💼 https://www.linkedin.com/in/malik-muzamil/
 

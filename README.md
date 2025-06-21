@@ -53,7 +53,9 @@ MixVoip/
 
 ## 🧑‍💻 Contact
 
-Have questions or suggestions? 📧 Email: malikmuzamil92110@gmail.com 💼 https://www.linkedin.com/in/malik-muzamil/
+Have questions or suggestions?
+<!-- 📧 Email: malikmuzamil92110@example.com | 💼 LinkedIn: linkedin.com/in/malik-muzamil -->
+
 
 “Success is not just about building something it's about solving real problems with purpose.”
 

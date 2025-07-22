@@ -1,4 +1,4 @@
-<h1 align="center">📞 MixVoip (Responsive HTML & CSS UI Project)</h1>
+<h1 align="center">📞 MixVoip — Responsive HTML & CSS UI Project</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-HTML%20%2B%20CSS-blue?style=for-the-badge" />
@@ -10,54 +10,72 @@
 
 ## ✨ Features
 
-📱 Fully responsive design for all screen sizes  
-🎯 Clean, modern, and minimal UI layout  
-🧩 Built using **pure HTML and CSS** no frameworks used  
-📄 Semantic HTML structure  
-🎨 Custom styling for sections like services, pricing, and contact  
+- 📱 **Fully responsive** design for all screen sizes  
+- 🎯 **Clean, modern, and minimal** UI layout  
+- 🧩 Built using **pure HTML and CSS** – no frameworks used  
+- 📄 **Semantic HTML** structure for better accessibility and SEO  
+- 🎨 Custom sections for **Services**, **Pricing**, **About**, and **Contact**
 
 ---
 
 ## 🛠️ Getting Started
 
-1. Clone this repository:
-git clone https://github.com/MalickMuzamil/MixVoip.git
+1. **Clone this repository:**
+   
+   git clone https://github.com/MalickMuzamil/MixVoip.git
 
-2. Open the project folder:
-cd MixVoip
+   Navigate to the project folder:
 
-3. Launch index.html in your browser:
-# On Windows
-start index.html
+   cd MixVoip
 
-✅**No build tools required. Just open the file and explore the UI.**
+   Launch index.html in your browser:
+
+   start index.html
+
+   open index.html
 
 
-## 📁 Project Structure
-MixVoip/
-├── index.html          # Main landing page
-├── /css/               # Custom styles
-│   └── style.css
-├── /images/            # Assets and icons
-└── README.md
+ ✅**No build tools required. Just open and explore the UI.**
+
 ---
 
-📚**Learnings & Experience**
+### 📁 Project Structure
 
-**✅ This project helped me understand:**
+MixVoip/
 
-1. Mobile-first responsive design
-2. Flexbox & Grid usage in pure CSS
-3. Building custom layouts without any frameworks
-4. Real-world UI structuring practices
+├── index.html            # Main landing page
 
-## 🧑‍💻 Contact
+├── css/
 
-Have questions or suggestions?
-<!-- 📧 Email: malikmuzamil92110@example.com | 💼 LinkedIn: linkedin.com/in/malik-muzamil -->
+│   └── style.css         # Custom stylesheet
 
+├── images/               # Icons, banners, and other assets
 
-“Success is not just about building something it's about solving real problems with purpose.”
+└── README.md             # Documentation
 
-Built with ❤️ by MalickMuzamil Empowering businesses through clean code and creativity.
+---
+
+### 📚 Learnings & Experience
+This project helped me gain hands-on experience with:
+
+✅ Mobile-first responsive design
+
+✅ CSS Flexbox and Grid for layouts
+
+✅ Structuring HTML without any frontend frameworks
+
+✅ Real-world UI practices with clean and readable code
+
+---
+
+🌐 Live Preview
+🔗 mix-viop.vercel.app
+
+---
+
+### 🧑‍💻 Contact
+
+Have questions or suggestions? Let's connect!
+
+📧 malikmuzamil92110@gmail.com
 

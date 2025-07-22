@@ -1,4 +1,4 @@
-<h1 align="center">📞 MixVoip — Responsive HTML & CSS UI Project</h1>
+<h1 align="center">📞 MixVoip Responsive HTML & CSS UI Project</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-HTML%20%2B%20CSS-blue?style=for-the-badge" />
@@ -22,17 +22,17 @@
 
 1. **Clone this repository:**
    
-   git clone https://github.com/MalickMuzamil/MixVoip.git
+2.  git clone https://github.com/MalickMuzamil/MixVoip.git
 
-   Navigate to the project folder:
+3.  Navigate to the project folder:
 
-   cd MixVoip
+4.   cd MixVoip
 
-   Launch index.html in your browser:
+5.   Launch index.html in your browser:
 
-   start index.html
+6.   start index.html
 
-   open index.html
+7.   open index.html
 
 
  ✅**No build tools required. Just open and explore the UI.**
@@ -68,7 +68,8 @@ This project helped me gain hands-on experience with:
 
 ---
 
-🌐 Live Preview
+### 🌐 Live Preview
+
 🔗 mix-viop.vercel.app
 
 ---
